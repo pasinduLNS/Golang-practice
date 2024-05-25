@@ -1,5 +1,6 @@
 
 // pracetise in : https://goplay.tools/
+// this is just created only for practice purpose.
 
 package main
 
